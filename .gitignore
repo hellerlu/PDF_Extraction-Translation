@@ -1,0 +1,15 @@
+# Ignore Sandbox
+Sandbox.ipynb
+
+# Ignore coverage report
+htmlcov/
+.coverage
+
+# Ignore the folder called __pycache__
+__pycache__/
+
+# Ignore the vscode folder
+.vscode
+
+# Ignore Mac system files
+.DS_store
